@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/siddharth-jaiswal-28242b24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-jaiswal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Siddharthjais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddharthjais" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/siddharthjais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharthjais" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/SidJais" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="SidJais" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
